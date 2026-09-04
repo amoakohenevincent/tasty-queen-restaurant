@@ -9,9 +9,9 @@
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 **[Experience the Live Website](https://amoakohenevincent.github.io/tasty-queen-restaurant/)**
+**[Experience the Live Website](https://amoakohenevincent.github.io/tasty-queen-restaurant/)**
 
 ---
 
