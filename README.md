@@ -1,4 +1,4 @@
-# 🍽️ Tasty Queen Restaurant
+#  Tasty Queen Restaurant
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -15,17 +15,17 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 📱 **Fully Responsive Layout**: Mobile-first design optimized for desktops, tablets, and mobile devices.
-- 🍔 **Dynamic Interactive Menu**: Instant category filtering (Appetizers, Mains, Desserts, Drinks) powered by JavaScript.
-- 📅 **Table Reservation Form**: Seamless online booking with client-side form validation and date checks.
-- 📞 **Contact & Location Details**: Direct customer contact portal with opening hours and location details.
-- 🎨 **Premium Aesthetic**: Elegant dark theme, harmonious typography (Poppins font), smooth hover micro-animations, and styled cards.
+-  **Fully Responsive Layout**: Mobile-first design optimized for desktops, tablets, and mobile devices.
+-  **Dynamic Interactive Menu**: Instant category filtering (Appetizers, Mains, Desserts, Drinks) powered by JavaScript.
+-  **Table Reservation Form**: Seamless online booking with client-side form validation and date checks.
+-  **Contact & Location Details**: Direct customer contact portal with opening hours and location details.
+-  **Premium Aesthetic**: Elegant dark theme, harmonious typography (Poppins font), smooth hover micro-animations, and styled cards.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5**: Semantic markup for high accessibility and SEO.
 - **CSS3**: Custom design tokens, Flexbox, Grid layouts, and smooth transition effects.
@@ -35,7 +35,7 @@
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ├── css/
@@ -53,7 +53,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the Repository**
    ```bash
@@ -65,6 +65,6 @@
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
