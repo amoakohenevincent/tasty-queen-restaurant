@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[Experience the Live Website](https://YOUR_GITHUB_USERNAME.github.io/tasty-queen-restaurant)** *(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
+👉 **[Experience the Live Website](https://amoakohenevincent.github.io/tasty-queen-restaurant/)**
 
 ---
 
