@@ -57,7 +57,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/tasty-queen-restaurant.git
+   git clone https://github.com/amoakohenevincent/tasty-queen-restaurant.git
    ```
 
 2. **Launch the Site**
